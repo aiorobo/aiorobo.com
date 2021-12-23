@@ -1,0 +1,45 @@
+{
+	"head": {
+		"title": "aiorobo",
+		"description": "Author:aiorobo",
+		"favicon": "favicon.ico"
+	},
+	"intro": {
+		"title": "aiorobo",
+		"subtitle": "Front back left right end engineer",
+		"enter": "enter",
+		"supportAuthor": true,
+		"background": true
+	},
+	"main": {
+		"name": "aiorobo",
+		"signature": "Code & Input & Output",
+		"avatar": {
+			"link": "assets/avatar.jpg",
+			"height": "100",
+			"width": "100"
+		},
+		"ul": {
+			"first": {
+				"href": "www.aiorobo.com:8",
+				"icon": "博客",
+				"text": "博客"
+			},
+			"second": {
+				"href": "www.aiorobo.com:88",
+				"icon": "Nas",
+				"text": "Nas"
+			},
+			"third": {
+				"href": "www.aiorobo.com:8096",
+				"icon": "Emby",
+				"text": "Emby"
+			},
+			"fourth": {
+				"href": "https://github.com/tomotoes",
+				"icon": "github",
+				"text": "Github"
+			}
+		}
+	}
+}
